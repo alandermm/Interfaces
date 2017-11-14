@@ -1,0 +1,12 @@
+C:\Users\01317235614\backend\InterfacePolimorfismo\ExemploPolimorfismo\bin\Debug\netcoreapp2.0\ExemploPolimorfismo.deps.json
+C:\Users\01317235614\backend\InterfacePolimorfismo\ExemploPolimorfismo\bin\Debug\netcoreapp2.0\ExemploPolimorfismo.runtimeconfig.json
+C:\Users\01317235614\backend\InterfacePolimorfismo\ExemploPolimorfismo\bin\Debug\netcoreapp2.0\ExemploPolimorfismo.runtimeconfig.dev.json
+C:\Users\01317235614\backend\InterfacePolimorfismo\ExemploPolimorfismo\bin\Debug\netcoreapp2.0\ExemploPolimorfismo.dll
+C:\Users\01317235614\backend\InterfacePolimorfismo\ExemploPolimorfismo\bin\Debug\netcoreapp2.0\ExemploPolimorfismo.pdb
+C:\Users\01317235614\backend\InterfacePolimorfismo\ExemploPolimorfismo\bin\Debug\netcoreapp2.0\ClasseInterface.dll
+C:\Users\01317235614\backend\InterfacePolimorfismo\ExemploPolimorfismo\bin\Debug\netcoreapp2.0\ClasseInterface.pdb
+C:\Users\01317235614\backend\InterfacePolimorfismo\ExemploPolimorfismo\obj\Debug\netcoreapp2.0\ExemploPolimorfismo.csproj.CoreCompileInputs.cache
+C:\Users\01317235614\backend\InterfacePolimorfismo\ExemploPolimorfismo\obj\Debug\netcoreapp2.0\ExemploPolimorfismo.AssemblyInfoInputs.cache
+C:\Users\01317235614\backend\InterfacePolimorfismo\ExemploPolimorfismo\obj\Debug\netcoreapp2.0\ExemploPolimorfismo.AssemblyInfo.cs
+C:\Users\01317235614\backend\InterfacePolimorfismo\ExemploPolimorfismo\obj\Debug\netcoreapp2.0\ExemploPolimorfismo.dll
+C:\Users\01317235614\backend\InterfacePolimorfismo\ExemploPolimorfismo\obj\Debug\netcoreapp2.0\ExemploPolimorfismo.pdb
